@@ -86,8 +86,8 @@ EC2_SRC_PATH = '/usr/local'
 EC2_NEXT_PATH = EC2_SRC_PATH + '/next-discovery'
 LOCAL_NEXT_PATH = './../'
 
-DEFAULT_REGION = 'us-west-2'
-DEFAULT_AMI = 'ami-9abea4fb'  # Ubuntu Server 14.04 LTS
+DEFAULT_REGION = 'us-east-1'
+DEFAULT_AMI = 'ami-0c11a0129f63fb571'  # Ubuntu Server 16.04 LTS
 DEFAULT_USER = 'ubuntu'
 DEFAULT_INSTANCE_TYPE = 'm3.large'
 
